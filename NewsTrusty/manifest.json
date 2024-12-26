@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "NewsTrusty",
+    "version": "1.0",
+    "description": "Checks if the news page you are reading is real or fake",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
