@@ -37,3 +37,14 @@ Install the Python packages using:
 ```
 pip install flask scikit-learn joblib
 ```
+
+## Running the Server
+
+1. Start the Flask server by running:
+```
+python server.py
+```
+2. Ensure the server is running at `http://localhost:5000`
+
+## Contributors
+- Shadman Farhan - Developer and Maintainer
