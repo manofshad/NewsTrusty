@@ -2,7 +2,7 @@
 
 **NewsTrusty** is a browser extension designed to verify the authenticity of news articles. It extracts the title and text of a webpage and uses a machine learning model to predict whether the news is real or fake.
 
-## Shadman!
+## Wasupppppp!
 
 - Extracts the title and main content of a news webpage.
 - Sends the extracted data to a Flask server hosting a machine learning model.
