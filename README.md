@@ -46,5 +46,6 @@ python server.py
 ```
 2. Ensure the server is running at `http://localhost:5000`
 
+
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
