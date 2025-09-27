@@ -51,5 +51,3 @@ python server.py
 - Shadman Farhan - Developer and Maintainer
 
 4567
-4567
-4567
