@@ -48,4 +48,4 @@ python server.py
 
 
 ## Contributors
-- Shadman Farhan - Developer and Maintainer
+- Alfardil Alam - Developer and Maintainer
