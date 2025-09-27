@@ -50,6 +50,6 @@ python server.py
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
 
-two
-two
-two
+lol
+lol
+lol
