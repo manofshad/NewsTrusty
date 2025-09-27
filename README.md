@@ -50,6 +50,6 @@ python server.py
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
 
-gold
-gold
-gold
+silver 
+silver 
+silver 
