@@ -48,4 +48,4 @@ python server.py
 
 
 ## Contributors
-- AA - Developer and Maintainer
+- AAgg - Developer and Maintainer
