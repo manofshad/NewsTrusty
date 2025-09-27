@@ -49,7 +49,3 @@ python server.py
 
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
-
-null
-null
-null
