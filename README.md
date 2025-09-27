@@ -50,6 +50,6 @@ python server.py
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
 
-mom
-mom
-mom
+CCNY
+CCNY
+CCNY
