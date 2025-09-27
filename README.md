@@ -49,6 +49,6 @@ python server.py
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
 
-blue 
-blue 
-blue 
+cool
+cool
+cool
