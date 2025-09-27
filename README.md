@@ -48,7 +48,3 @@ python server.py
 
 ## Contributors
 - Shadman Farhan - Developer and Maintainer
-
-nothing 
-nothing 
-nothing
